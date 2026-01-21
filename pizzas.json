@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Margherita",
+    "descricao": "Molho de tomate pelado, mozzarella de búfala, manjericão fresco e azeite extravirgem.",
+    "tamanho": "Grande",
+    "preco": 45.90
+  },
+  {
+    "id": 2,
+    "nome": "Calabresa",
+    "descricao": "Fatias de calabresa artesanal, cebola roxa, azeitonas pretas e orégano.",
+    "tamanho": "Média",
+    "preco": 38.50
+  },
+  {
+    "id": 3,
+    "nome": "Quatro Queijos",
+    "descricao": "Mix de mozzarella, gorgonzola, parmesão e provolone sobre molho de tomate.",
+    "tamanho": "Grande",
+    "preco": 52.00
+  },
+  {
+    "id": 4,
+    "nome": "Frango com Catupiry",
+    "descricao": "Frango desfiado temperado, milho verde e o autêntico requeijão Catupiry.",
+    "tamanho": "Grande",
+    "preco": 48.00
+  },
+  {
+    "id": 5,
+    "nome": "Portuguesa",
+    "descricao": "Presunto cozido, ovos, cebola, ervilha e cobertura de mozzarella.",
+    "tamanho": "Média",
+    "preco": 42.90
+  }
+]
